@@ -1,1 +1,1 @@
-# [EazyByts]https://omkaripte.github.io/EazyByts/
+# [EazyByts](https://omkaripte.github.io/EazyByts/)
