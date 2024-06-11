@@ -1,1 +1,1 @@
-# EazyByts
+# [EazyByts]https://omkaripte.github.io/EazyByts/
