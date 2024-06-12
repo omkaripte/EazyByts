@@ -14,31 +14,6 @@ html {
     box-sizing: border-box;
 }
 
-/* -- -------Back to Top------------- -- */
-.top {
-    position: fixed;
-    right: 15px;
-    bottom: 15px;
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 24px;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background: #363c49;
-    color: #fff;
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.5s;
-}
-.top.active {
-    bottom: 32px;
-    pointer-events: auto;
-    opacity: 1;
-}
-
 /* ------------------Home Section-------------------- */
 #header {
     width: 100%;
@@ -406,6 +381,31 @@ nav .menu {
     color: white;
     margin-top: -15px;
     display: block;
+}
+
+/* -- -------Back to Top------------- -- */
+.top {
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #363c49;
+    color: #fff;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.5s;
+}
+.top.active {
+    bottom: 32px;
+    pointer-events: auto;
+    opacity: 1;
 }
 
 /*--------------For Responsive Website (Small Screen)-----------------*/
