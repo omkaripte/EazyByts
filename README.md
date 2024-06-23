@@ -1,1 +1,2 @@
-# [EazyByts](https://omkaripte.github.io/EazyByts/)
+# EazyByts
+# [Personal Portfolio Website](https://omkaripte.github.io/EazyByts/)
